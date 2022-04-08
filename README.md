@@ -1,27 +1,12 @@
-# Encontre a letra de uma música com tradução para PT-BR
+# Roleta da Sorte
 
-O objetivo desse pequeno projeto é o estudo do React js com chamada API do https://www.vagalume.com.br
+Projeto feito em vanilla javascript.
+O objetive desse pequeno projeto é o estudo/treino de animação com canvas.
 
-![alt text](https://github.com/mkdigo/lucky-roulette/blob/master/home.png?raw=true)
+![alt text](https://github.com/mkdigo/lucky-roulette/blob/main/home.png?raw=true)
 
-## Instale os pacotes.
+## Para rodar o projeto.
 
-yarn install ou npm install
+Basta clonar o projeto e abrir em seu navegador o arquivo index.html
 
-## Obtenha uma credencial no Vagalume
-
-Entre no site https://www.vagalume.com.br e crie uma conta gratuitamente.
-Clique no menu superior direito e depois em Meus Dados.
-Encontre a opção API e crei sua credencial.
-
-## Adicionar a sua credencial no projeto
-
-Na pasta raiz do projeto crie um arquivo chamado .env, e crie uma variavel de ambiente como no exemplo abaixo.
-
-REACT_APP_VAGALUME_API_KEY = 'yourApiKey'
-
-## Tudo pronto para rodar!
-
-yarn start ou npm run start
-
-e divirta-se!
+Divirta-se!
